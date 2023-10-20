@@ -1,0 +1,109 @@
+[
+    {
+        "id": 1,
+        "imagen": "Aritmetica Elemental Vol. 1.jpeg",
+        "titulo": "Problemas 26 OMÑA",
+        "precio": 3200,
+        "descripcion": "Enunciados y soluciones de todos los niveles e instancias de Olimpiada Matematica Argentina del año 2014",
+        "categoria": "ñandu",
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "imagen": "Aritmetica Elemental Vol. 2.jpeg",
+        "titulo": "Problemas 27 OMÑA",
+        "precio": 3200,
+        "descripcion": "Enunciados y soluciones de todos los niveles e instancias de Olimpiada Matematica Argentina del año 2014",
+        "categoria": "ñandu",
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "imagen": "Aritmética.jpeg",
+        "titulo": "Problemas 26 OMA",
+        "precio": 3200,
+        "descripcion": "Enunciados y soluciones de todos los niveles e instancias de Olimpiada Matematica Argentina del año 2014",
+        "categoria": "oma",
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "imagen": "Problemas 28 OMA.jpeg",
+        "titulo": "Problemas 28 OMA",
+        "precio": 3200,
+        "descripcion": "Enunciados y soluciones de todos los niveles e instancias de Olimpiada Matematica Argentina del año 2014",
+        "categoria": "oma",
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "imagen": "Problemas 29 OMA.jpeg",
+        "titulo": "Problemas 29 OMA",
+        "precio": 3200,
+        "descripcion": "Enunciados y soluciones de todos los niveles e instancias de Olimpiada Matematica Argentina del año 2014",
+        "categoria": "oma",
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "imagen": "Problemas 30 OMA.jpeg",
+        "titulo": "Problemas 30 OMA",
+        "precio": 3200,
+        "descripcion": "Enunciados y soluciones de todos los niveles e instancias de Olimpiada Matematica Argentina del año 2014",
+        "categoria": "oma",
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "imagen": "BUP 1 (Matematicas Bachillerato 1).jpeg",
+        "titulo": "BUP 1 (Matematicas Bachillerato 1)",
+        "precio": 3200,
+        "descripcion": "Enunciados y soluciones de todos los niveles e instancias de Olimpiada Matematica Argentina del año 2014",
+        "categoria": "avanzados",
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "imagen": "BUP 2 (Matematicas Bachillerato 2).jpeg",
+        "titulo": "BUP 2 (Matematicas Bachillerato 2)",
+        "precio": 3200,
+        "descripcion": "Enunciados y soluciones de todos los niveles e instancias de Olimpiada Matematica Argentina del año 2014",
+        "categoria": "avanzados",
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "imagen": "BUP 3 (Matematicas Bachillerato 3).jpeg",
+        "titulo": "BUP 3 (Matematicas Bachillerato 3)",
+        "precio": 3200,
+        "descripcion": "Enunciados y soluciones de todos los niveles e instancias de Olimpiada Matematica Argentina del año 2014",
+        "categoria": "avanzados",
+        "stock": 10
+    },
+    {
+        "id": 10,
+        "imagen": "Mirar y Ver.jpeg",
+        "titulo": "Mirar y Ver",
+        "precio": 3200,
+        "categoria": "oma",
+        "stock": 10
+    },
+    {
+        "id": 11,
+        "imagen": "Orientaciones en la Geometría Elemental Tomo 1.jpeg",
+        "titulo": "Orientaciones en la Geometría Elemental Tomo 1",
+        "precio": 3200,
+        "descripcion": "Enunciados y soluciones de todos los niveles e instancias de Olimpiada Matematica Argentina del año 2014",
+        "categoria": "ibero-Mayo",
+        "stock": 10
+    },
+    {
+        "id": 12,
+        "imagen": "Orientaciones en la Geometría Elemental Tomo 2.jpeg",
+        "titulo": "Orientaciones en la Geometría Elemental Tomo 2",
+        "precio": 3200,
+        "descripcion": "Enunciados y soluciones de todos los niveles e instancias de Olimpiada Matematica Argentina del año 2014",
+        "categoria": "ibero-Mayo",
+        "stock": 10
+    }
+]
