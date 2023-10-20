@@ -9,8 +9,6 @@ const ItemListContainer = () => {
   const [titulo, setTitulo] = useState("Todos los Libros")
   const categoria = useParams().categoria
 
-  console.log(categoria)
-
   useEffect(() => {
     pedirDatos()
       .then((res) => {
