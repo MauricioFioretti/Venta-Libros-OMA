@@ -7,7 +7,7 @@ import Carrito from './carrito';
 const NavBar = () => {
     return (
         <nav className="navbar">
-            <Link to="/" className="logo"><h2>Venta de libros</h2></Link>
+            <Link to="/" className="logo"><h2>Venta de libros!</h2></Link>
             <ul className="menu">
                 <li><Link className="menu-link" to="/">Inicio</Link></li>
                 <li><Link className="menu-link" to="/productos/ñandu">Ñandú</Link></li>
