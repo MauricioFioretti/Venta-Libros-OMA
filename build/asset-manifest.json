@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-github/build/static/css/main.a7d39c25.css",
-    "main.js": "/react-github/build/static/js/main.3520670b.js",
-    "index.html": "/react-github/build/index.html",
-    "main.a7d39c25.css.map": "/react-github/build/static/css/main.a7d39c25.css.map",
-    "main.3520670b.js.map": "/react-github/build/static/js/main.3520670b.js.map"
+    "main.css": "/Venta-Libros-OMA/static/css/main.a7d39c25.css",
+    "main.js": "/Venta-Libros-OMA/static/js/main.87a52c3b.js",
+    "index.html": "/Venta-Libros-OMA/index.html",
+    "main.a7d39c25.css.map": "/Venta-Libros-OMA/static/css/main.a7d39c25.css.map",
+    "main.87a52c3b.js.map": "/Venta-Libros-OMA/static/js/main.87a52c3b.js.map"
   },
   "entrypoints": [
     "static/css/main.a7d39c25.css",
-    "static/js/main.3520670b.js"
+    "static/js/main.87a52c3b.js"
   ]
 }
