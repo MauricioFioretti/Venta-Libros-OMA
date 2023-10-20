@@ -1,8 +1,8 @@
 {
+  "homepage": "https://MauricioFioretti.github.io/Venta-De-Libros/build",
   "name": "proyecto-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MauricioFioretti.github.io/Venta-Libros-OMA",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
