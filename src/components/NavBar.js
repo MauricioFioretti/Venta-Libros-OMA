@@ -1,7 +1,7 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Link } from 'react-router-dom';
-import Carrito from './carrito';
+import CartWidget from './CartWidget';
 
 
 const NavBar = () => {
@@ -15,7 +15,7 @@ const NavBar = () => {
                 <li><Link className="menu-link" to="/productos/avanzados">Avanzados</Link></li>
                 <li><Link className="menu-link" to="/productos/ibero-Mayo">Ibero-Mayo</Link></li>
             </ul>
-            <Carrito />
+            <CartWidget />
         </nav>
     )
 }
