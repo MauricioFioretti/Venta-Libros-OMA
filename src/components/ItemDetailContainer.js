@@ -7,7 +7,7 @@ export default function ItemDetailContainer() {
 
     const [item, setItem] = useState(null)
     const id = useParams().id
-    
+
     useEffect(() => {
         pedirItemPorId(Number(id))
             .then((res) => {
@@ -17,7 +17,7 @@ export default function ItemDetailContainer() {
 
     return (
         <div>
-            {item && <ItemDetail item={item} /> }
+            {item && <ItemDetail item={item} />}
         </div>
     )
 }

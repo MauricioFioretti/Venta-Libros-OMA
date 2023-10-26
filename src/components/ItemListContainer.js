@@ -12,14 +12,14 @@ const ItemListContainer = () => {
   useEffect(() => {
     pedirDatos()
       .then((res) => {
-        if (categoria){
+        if (categoria) {
           setProductos(res.filter((prod) => prod.categoria === categoria))
           setTitulo(categoria.charAt(0).toUpperCase() + categoria.slice(1))
-        } else{
+        } else {
           setProductos(res)
           setTitulo("Todos los Libros")
         }
-        
+
       })
   }, [categoria])
 
