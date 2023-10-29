@@ -29,7 +29,7 @@ export default function Carrito() {
 
       {carrito.length > 0 ?
         <>
-          <h3>Total a pagar: ${precioTotal}</h3>
+          <h3>Total a pagar: ${precioTotal()}</h3>
           <button onClick={funcionVaciar}>Vaciar</button>
           <button className="main-title"><Link to="/checkout">Finalizar compra</Link></button>
 

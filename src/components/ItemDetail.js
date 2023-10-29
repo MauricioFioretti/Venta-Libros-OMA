@@ -4,8 +4,7 @@ import { CartContext } from '../context/CartContext'
 
 export default function ItemDetail({ item }) {
 
-    const { carrito, agregarAlCarrito } = useContext(CartContext)
-    console.log(carrito)
+    const { agregarAlCarrito } = useContext(CartContext)
 
     const [cantidad, setCantidad] = useState(1)
 
@@ -26,6 +25,7 @@ export default function ItemDetail({ item }) {
                     <h4>{item.titulo}</h4>
                     <p>Precio: ${item.precio}</p>
                     <p>Categoria: {item.categoria}</p>
+                    <p>Descripción: {item.descripcion}</p>
                     <ItemCount cantidad={cantidad}
                         incrementar={incrementar}
                         decrementar={decrementar}
