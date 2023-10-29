@@ -20,8 +20,8 @@ export default function ItemDetail({ item }) {
     return (
         <div className='container'>
             <div className='producto-detalle'>
-                <img src={"https://drive.google.com/file/d/1UuLtm3o62bTw7VTN-IYYmzB__bDcq1Ru/view"} alt={item.titulo} />
-                {/* <img src={`${process.env.PUBLIC_URL}/img/${item.imagen}`} alt={item.titulo} /> */}
+                
+                <img src={`${item.imagen}`} alt={item.titulo} />
                 <div>
                     <h4>{item.titulo}</h4>
                     <p>Precio: ${item.precio}</p>
@@ -31,7 +31,6 @@ export default function ItemDetail({ item }) {
                         decrementar={decrementar}
                         funcionAgregar={() => agregarAlCarrito(item, cantidad)}
                     />
-                    {/* <a className='ver-mas' href={`/item/${item.id}`}>Ver más</a> */}
                 </div>
             </div>
         </div>

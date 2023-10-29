@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "imagen":"https://drive.google.com/file/d/1UuLtm3o62bTw7VTN-IYYmzB__bDcq1Ru/view",
+        "imagen": "https://mauriciofioretti.github.io/Entrega-Final-JS/img/Libros/Problemas%2026%20OM%C3%91A.jpeg",
         "titulo": "Problemas 26 OMÑA",
         "precio": 3200,
         "descripcion": "Enunciados y soluciones de todos los niveles e instancias de Olimpiada Matematica Argentina del año 2014",
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "imagen": "Aritmetica Elemental Vol. 2.jpeg",
+        "imagen": "https://mauriciofioretti.github.io/Entrega-Final-JS/img/Libros/Problemas%2027%20OM%C3%91A.jpeg",
         "titulo": "Problemas 27 OMÑA",
         "precio": 3200,
         "descripcion": "Enunciados y soluciones de todos los niveles e instancias de Olimpiada Matematica Argentina del año 2014",
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "imagen": "Aritmética.jpeg",
+        "imagen": "https://mauriciofioretti.github.io/Entrega-Final-JS/img/Libros/Problemas%2026%20OMA.jpeg",
         "titulo": "Problemas 26 OMA",
         "precio": 3200,
         "descripcion": "Enunciados y soluciones de todos los niveles e instancias de Olimpiada Matematica Argentina del año 2014",
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "imagen": "Problemas 28 OMA.jpeg",
+        "imagen": "https://mauriciofioretti.github.io/Entrega-Final-JS/img/Libros/Problemas%2028%20OMA.jpeg",
         "titulo": "Problemas 28 OMA",
         "precio": 3200,
         "descripcion": "Enunciados y soluciones de todos los niveles e instancias de Olimpiada Matematica Argentina del año 2014",
@@ -37,7 +37,7 @@
     },
     {
         "id": 5,
-        "imagen": "Problemas 29 OMA.jpeg",
+        "imagen": "https://mauriciofioretti.github.io/Entrega-Final-JS/img/Libros/Problemas%2029%20OMA.jpeg",
         "titulo": "Problemas 29 OMA",
         "precio": 3200,
         "descripcion": "Enunciados y soluciones de todos los niveles e instancias de Olimpiada Matematica Argentina del año 2014",
@@ -46,7 +46,7 @@
     },
     {
         "id": 6,
-        "imagen": "Problemas 30 OMA.jpeg",
+        "imagen": "https://mauriciofioretti.github.io/Entrega-Final-JS/img/Libros/Problemas%2030%20OMA.jpeg",
         "titulo": "Problemas 30 OMA",
         "precio": 3200,
         "descripcion": "Enunciados y soluciones de todos los niveles e instancias de Olimpiada Matematica Argentina del año 2014",
@@ -55,7 +55,7 @@
     },
     {
         "id": 7,
-        "imagen": "BUP 1 (Matematicas Bachillerato 1).jpeg",
+        "imagen": "https://mauriciofioretti.github.io/Entrega-Final-JS/img/Libros/BUP%201%20(Matematicas%20Bachillerato%201).jpeg",
         "titulo": "BUP 1 (Matematicas Bachillerato 1)",
         "precio": 3200,
         "descripcion": "Enunciados y soluciones de todos los niveles e instancias de Olimpiada Matematica Argentina del año 2014",
@@ -64,7 +64,7 @@
     },
     {
         "id": 8,
-        "imagen": "BUP 2 (Matematicas Bachillerato 2).jpeg",
+        "imagen": "https://mauriciofioretti.github.io/Entrega-Final-JS/img/Libros/BUP%202%20(Matematicas%20Bachillerato%202).jpeg",
         "titulo": "BUP 2 (Matematicas Bachillerato 2)",
         "precio": 3200,
         "descripcion": "Enunciados y soluciones de todos los niveles e instancias de Olimpiada Matematica Argentina del año 2014",
@@ -73,7 +73,7 @@
     },
     {
         "id": 9,
-        "imagen": "BUP 3 (Matematicas Bachillerato 3).jpeg",
+        "imagen": "https://mauriciofioretti.github.io/Entrega-Final-JS/img/Libros/BUP%203%20(Matematicas%20Bachillerato%203).jpeg",
         "titulo": "BUP 3 (Matematicas Bachillerato 3)",
         "precio": 3200,
         "descripcion": "Enunciados y soluciones de todos los niveles e instancias de Olimpiada Matematica Argentina del año 2014",
@@ -82,7 +82,7 @@
     },
     {
         "id": 10,
-        "imagen": "Mirar y Ver.jpeg",
+        "imagen": "https://mauriciofioretti.github.io/Entrega-Final-JS/img/Libros/Mirar%20y%20Ver.jpeg",
         "titulo": "Mirar y Ver",
         "precio": 3200,
         "categoria": "oma",
@@ -90,7 +90,7 @@
     },
     {
         "id": 11,
-        "imagen": "Orientaciones en la Geometría Elemental Tomo 1.jpeg",
+        "imagen": "https://mauriciofioretti.github.io/Entrega-Final-JS/img/Libros/Orientaciones%20en%20la%20Geometr%C3%ADa%20Elemental%20Tomo%201.jpeg",
         "titulo": "Orientaciones en la Geometría Elemental Tomo 1",
         "precio": 3200,
         "descripcion": "Enunciados y soluciones de todos los niveles e instancias de Olimpiada Matematica Argentina del año 2014",
@@ -99,7 +99,7 @@
     },
     {
         "id": 12,
-        "imagen": "Orientaciones en la Geometría Elemental Tomo 2.jpeg",
+        "imagen": "https://mauriciofioretti.github.io/Entrega-Final-JS/img/Libros/Orientaciones%20en%20la%20Geometr%C3%ADa%20Elemental%20Tomo%202.jpeg",
         "titulo": "Orientaciones en la Geometría Elemental Tomo 2",
         "precio": 3200,
         "descripcion": "Enunciados y soluciones de todos los niveles e instancias de Olimpiada Matematica Argentina del año 2014",
