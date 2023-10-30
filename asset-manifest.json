@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Venta-Libros-OMA/static/css/main.fe245d61.css",
-    "main.js": "/Venta-Libros-OMA/static/js/main.b13a2f60.js",
+    "main.css": "/Venta-Libros-OMA/static/css/main.82a7b992.css",
+    "main.js": "/Venta-Libros-OMA/static/js/main.2a2a072b.js",
     "index.html": "/Venta-Libros-OMA/index.html",
-    "main.fe245d61.css.map": "/Venta-Libros-OMA/static/css/main.fe245d61.css.map",
-    "main.b13a2f60.js.map": "/Venta-Libros-OMA/static/js/main.b13a2f60.js.map"
+    "main.82a7b992.css.map": "/Venta-Libros-OMA/static/css/main.82a7b992.css.map",
+    "main.2a2a072b.js.map": "/Venta-Libros-OMA/static/js/main.2a2a072b.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe245d61.css",
-    "static/js/main.b13a2f60.js"
+    "static/css/main.82a7b992.css",
+    "static/js/main.2a2a072b.js"
   ]
 }
