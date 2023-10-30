@@ -9,12 +9,11 @@ export default function Checkout() {
     const [pedidoId, setPedidoId] = useState("")
 
     const { carrito, vaciarCarrito, precioTotal } = useContext(CartContext)
-    // const precioTotal = carrito.reduce((acc, prod) => acc + prod.precio * prod.cantidad, 0)
 
     const { register, handleSubmit } = useForm()
 
     const comprar = (data) => {
-        const pedido ={
+        const pedido = {
             cliente: data,
             productos: carrito,
             total: precioTotal()
@@ -30,11 +29,11 @@ export default function Checkout() {
             })
     }
 
-    if(pedidoId){
-        return(
+    if (pedidoId) {
+        return (
             <div className="container">
-            <h1 className="main-title">Gracias por tu compra, el id de tu pedido es: {pedidoId}</h1>
-        </div>
+                <h1 className="main-title">Gracias por tu compra, el id de tu pedido es: {pedidoId}</h1>
+            </div>
         )
     }
 
@@ -42,13 +41,10 @@ export default function Checkout() {
         <div className="container">
             <h1 className="main-title">Finalizar compra</h1>
             <form className="formulario" onSubmit={handleSubmit(comprar)}>
-
                 <input type="text" placeholder="Ingresá tu nombre" {...register("nombre")} />
                 <input type="email" placeholder="Ingresá tu e-mail" {...register("email")} />
                 <input type="phone" placeholder="Ingresá tu teléfono" {...register("telefono")} />
-
                 <button className="enviar" type="submit">Comprar</button>
-
             </form>
         </div>
     )

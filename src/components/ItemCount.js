@@ -8,7 +8,6 @@ export default function ItemCount({ decrementar, incrementar, cantidad, funcionA
                 <button onClick={incrementar}>+</button>
             </div>
             <button className='agregar-al-carrito' onClick={funcionAgregar}>Agregar al carrito</button>
-
         </div>
     )
 }

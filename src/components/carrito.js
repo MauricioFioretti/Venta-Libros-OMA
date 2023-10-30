@@ -5,7 +5,6 @@ import { Link } from 'react-router-dom'
 export default function Carrito() {
 
   const { carrito, vaciarCarrito, precioTotal } = useContext(CartContext)
-  // const precioTotal = carrito.reduce((acc, prod) => acc + prod.precio * prod.cantidad, 0)
 
   const funcionVaciar = () => {
     vaciarCarrito()
@@ -30,16 +29,17 @@ export default function Carrito() {
       {carrito.length > 0 ?
         <>
           <h3>Total a pagar: ${precioTotal()}</h3>
-          <button onClick={funcionVaciar}>Vaciar</button>
-          <button className="main-title"><Link to="/checkout">Finalizar compra</Link></button>
 
-          {/* <Link to="/checkout">Finalizar compra</Link> */}
-          
+          <div className='productos'>
+            <button className="agregar-al-carrito" onClick={funcionVaciar}>Vaciar carrito</button>
+            <Link to="/checkout"> <button className="agregar-al-carrito" >Finalizar compra</button> </Link>
+            {/* <Link to="/checkout">
+              <button className="agregar-al-carrito">Finalizar compra</button>
+            </Link> */}
+          </div>
         </> :
         <h3>El carrito está vacío!</h3>
       }
-
-
     </div>
   )
 }

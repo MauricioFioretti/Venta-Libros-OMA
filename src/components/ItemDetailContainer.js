@@ -10,15 +10,14 @@ export default function ItemDetailContainer() {
     const id = useParams().id
 
     useEffect(() => {
-
         const docRef = doc(db, "productos", id)
+
         getDoc(docRef)
             .then((resp) => {
                 setItem(
                     { ...resp.data(), id: resp.id }
                 )
             })
-
     }, [id])
 
     return (

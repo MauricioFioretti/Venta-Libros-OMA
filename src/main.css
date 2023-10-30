@@ -68,7 +68,6 @@
     flex-direction: column;
     border-radius: 1rem;
     overflow: visible;
-    /* overflow: hidden; */
 }
 
 .producto>div {
@@ -135,6 +134,10 @@
     margin-top: 1rem;
 }
 
+.item-count p{
+    padding-top: 3%;
+}
+
 .item-count button,
 .agregar-al-carrito,
 .enviar {
@@ -188,4 +191,12 @@
     outline: 0;
     border: 2px solid var(--clr-main);
     outline: 2px solid var(--clr-main);
+}
+
+a {
+    text-decoration: none;  
+}
+
+.container .main-title{
+    padding-bottom: 1.5rem;
 }
