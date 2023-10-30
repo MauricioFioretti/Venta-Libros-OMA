@@ -33,9 +33,6 @@ export default function Carrito() {
           <div className='productos'>
             <button className="agregar-al-carrito" onClick={funcionVaciar}>Vaciar carrito</button>
             <Link to="/checkout"> <button className="agregar-al-carrito" >Finalizar compra</button> </Link>
-            {/* <Link to="/checkout">
-              <button className="agregar-al-carrito">Finalizar compra</button>
-            </Link> */}
           </div>
         </> :
         <h3>El carrito está vacío!</h3>

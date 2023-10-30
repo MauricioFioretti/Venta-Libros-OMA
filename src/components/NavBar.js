@@ -3,7 +3,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Link } from 'react-router-dom';
 import CartWidget from './CartWidget';
 
-
 const NavBar = () => {
     return (
         <nav className="navbar">
